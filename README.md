@@ -1,2 +1,1 @@
-# AGuilds
-Plugin ;_;
+Piszemy plugin na gildie hehe
